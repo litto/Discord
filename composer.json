@@ -1,0 +1,21 @@
+{
+  "name": "litto/discord-signin",
+  "description": "Signin Using Discord",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "Message\\": "src"
+    }
+    },
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Litto Chacko",
+      "email": "littochackomp@gmail.com"
+    }
+  ]
+}
